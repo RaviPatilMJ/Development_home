@@ -1,0 +1,1 @@
+This is the scanning dialog in which any user can scan a barcode and it'll be accepted here
