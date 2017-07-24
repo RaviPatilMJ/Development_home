@@ -1,2 +1,3 @@
 This is the scanning dialog in which any user can scan a barcode and it'll be accepted here
 I am adding one edit control here
+The new user is adding this new line
